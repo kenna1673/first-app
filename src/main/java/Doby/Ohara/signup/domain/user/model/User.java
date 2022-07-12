@@ -1,6 +1,5 @@
 package Doby.Ohara.signup.domain.user.model;
 
-git statis
 
 import javax.persistence.*;
 import java.util.Objects;
